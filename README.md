@@ -12,3 +12,4 @@ JavaScript:
 7. "textContent" over "innerText" = accesses html text in human readable format.
 8. count = count + 1 | shortcut count += 1
 9. The DOM = The Document Object Model (DOM) is a programming interface that represents an HTML document as a tree of objects, allowing JavaScript to dynamically read, add, modify, or delete elements and styles.
+10. If you concatenate a string and a number the code is viewed as a string.
